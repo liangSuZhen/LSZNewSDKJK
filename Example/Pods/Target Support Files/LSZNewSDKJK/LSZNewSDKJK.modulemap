@@ -1,0 +1,6 @@
+framework module LSZNewSDKJK {
+  umbrella header "LSZNewSDKJK-umbrella.h"
+
+  export *
+  module * { export * }
+}
